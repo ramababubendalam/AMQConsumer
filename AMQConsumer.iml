@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Adstream/Softwares/JmeterApache/JmeterApache/apache-jmeter-2.13/lib/ext/activemq-all-5.14.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Adstream/Softwares/JmeterApache/JmeterApache/apache-jmeter-2.13/lib/ext/ApacheJMeter_core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Adstream/Softwares/JmeterApache/JmeterApache/apache-jmeter-2.13/lib/ext/ApacheJMeter_java.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Adstream/activemq-1.0-20160711.143439-1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Adstream/gdn-client-api-3.0.8.jar!/" />
+          <root url="jar://C:/Adstream/gdn-engine-api-3.0.8.jar!/" />
+          <root url="file://$MODULE_DIR$/.." />
+          <root url="file://$MODULE_DIR$/.." />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/../sendplus/Performance_Tests/Webapp/QA/InterfaceTesting/TestBed/jmeter/docs/api" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.." />
+          <root url="file://$MODULE_DIR$/src" />
+          <root url="file://$MODULE_DIR$/../AMQ/src" />
+          <root url="file://$MODULE_DIR$/../DeliveryPublicAPi/src/test/java" />
+          <root url="file://$MODULE_DIR$/../NewProject1/src" />
+          <root url="file://$MODULE_DIR$/../TestAMQ/src" />
+          <root url="file://$MODULE_DIR$/../adstream-jmeter-plugins/src/main/java" />
+          <root url="file://$MODULE_DIR$/../adstream-jmeter-plugins/src/test/java" />
+          <root url="file://$MODULE_DIR$/../gdam-core/utils/src/main/scala" />
+          <root url="file://$MODULE_DIR$/../gdam/Core/src" />
+          <root url="file://$MODULE_DIR$/../gdam/Performance/src" />
+          <root url="file://$MODULE_DIR$/../gdam/PublicAPi/src/test/java" />
+          <root url="file://$MODULE_DIR$/../gdam/SUT/src" />
+          <root url="file://$MODULE_DIR$/../gdam/Tests/src" />
+          <root url="file://$MODULE_DIR$/../gdam/activemq/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdam/api-tests/src/test/java" />
+          <root url="file://$MODULE_DIR$/../gdam/desktop-admin/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdam/logplayer/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdam/migration/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdam/monitoring/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdam/scripts/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdam/yadn-mock/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdn/activemq/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdn/rest/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdn/systems/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdn/testng/src/main/java" />
+          <root url="file://$MODULE_DIR$/../gdn/tests/src/test/java" />
+          <root url="file://$MODULE_DIR$/../sendplus/SendplusHeadless/src/test/java" />
+          <root url="file://$MODULE_DIR$/../sendplus/Web_UI_Automation/Sendplus/src/test/java" />
+          <root url="file://$MODULE_DIR$/../tweetapi/src/main/java" />
+          <root url="file://$MODULE_DIR$/../tweetapi/src/test/java" />
+          <root url="file://$MODULE_DIR$/../utils/src" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/.." recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/.." recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="org.scala-lang:scala-library:2.9.1" level="project" />
+    <orderEntry type="library" name="commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Adstream/utils-1.0.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
